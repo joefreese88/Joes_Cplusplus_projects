@@ -1,7 +1,7 @@
 /*
 //================THEATER SEATING PROGRAM================//
 	PRG/410: C++ Programming I
-	
+
 	Learning Team 'A'
 		- Wezley Singleton
 		- Raphael Fonseca
